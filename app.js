@@ -1,5 +1,4 @@
 let map, heatmap;
-const secretKey = config.googleAPI;
 function initMap() {
 
   let position = {lat: 37.804363, lng: -122.271111};
